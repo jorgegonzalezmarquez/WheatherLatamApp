@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611303292538",
+    "project_id": "weatherlatam",
+    "storage_bucket": "weatherlatam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611303292538:android:c24e5eacb957ad1ce8c5c3",
+        "android_client_info": {
+          "package_name": "com.example.weatherlatamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vaz7BZsnQ1Lk1Kf3Tg6f7uJFuqwrkjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
